@@ -4503,10 +4503,7 @@ plugins:
     url:
       - link: 'https://www.nexusmods.com/fallout3/mods/24367/'
         name: 'The Pittsburgh Expansion Project'
-    tag:
-      - Actors.ACBS
-      - Actors.AIData
-      - Actors.RecordFlags
+    tag: [ Actors.AIData ]
     dirty:
     # 3.0v
       - <<: *quickClean
