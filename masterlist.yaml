@@ -4504,13 +4504,17 @@ plugins:
       - link: 'https://www.nexusmods.com/fallout3/mods/24367/'
         name: 'The Pittsburgh Expansion Project'
     tag: [ Actors.AIData ]
+  - name: 'The Pittsburgh Expansion Project 3.0v.esp'
     dirty:
-    # 3.0v
       - <<: *quickClean
         crc: 0xE6660B3C
-        util: '[FO3Edit v4.0.4c](https://www.nexusmods.com/fallout3/mods/637)'
+        util: '[FO3Edit v4.1.5f](https://www.nexusmods.com/fallout3/mods/637)'
         itm: 34
         udr: 48
+  - name: 'The_Pittsburgh_Expansion_Project_3.0v.esp'
+    clean:
+      - crc: 0x1C04A34A
+        util: 'FO3Edit v4.1.5f'
 
 ###### Locations - New Structures & Landmarks ######
   - name: 'Fairfax City Interiors.esp'
