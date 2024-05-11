@@ -4499,7 +4499,7 @@ plugins:
         subs: [ 'Intro Street Bus ESP' ]
         condition: 'many("DCStreet( - BS)?\.esp")'
 
-  - name: 'The Pittsburgh Expansion Project 3.0v.esp'
+  - name: 'The[ _]Pittsburgh[ _]Expansion[ _]Project[ _]3\.0v\.esp'
     url:
       - link: 'https://www.nexusmods.com/fallout3/mods/24367/'
         name: 'The Pittsburgh Expansion Project'
