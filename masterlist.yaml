@@ -2938,9 +2938,7 @@ plugins:
       - link: 'https://www.nexusmods.com/fallout3/mods/25239/'
         name: 'Goodies'
     tag:
-      - Actors.ACBS
       - Actors.CombatStyle
-      - Actors.DeathItem
       - Delev
       - Destructible
       - Graphics
