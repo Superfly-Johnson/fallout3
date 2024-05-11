@@ -3178,11 +3178,10 @@ plugins:
       - link: 'https://www.nexusmods.com/fallout3/mods/25855/'
         name: 'Pacifism and More'
     dirty:
-    # 1.30
       - <<: *quickClean
-        crc: 0xBD0CD0B6
-        util: '[FO3Edit v4.0.4c](https://www.nexusmods.com/fallout3/mods/637)'
-        itm: 4
+        crc: 0x1255A85E
+        util: '[FO3Edit v4.1.5f](https://www.nexusmods.com/fallout3/mods/637)'
+        itm: 115
 
   - name: 'RH_IRONSIGHTS.esm'
     url:
