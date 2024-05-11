@@ -2950,9 +2950,8 @@ plugins:
       - Stats
       - Text
     clean:
-    # 1.6.5
       - crc: 0x2C4386DD
-        util: 'FO3Edit v4.0.4c'
+        util: 'FO3Edit v4.1.5f'
 
   - name: 'H\.E\.R\.K\.( - GOTY( & WMK)?)?\.es(m|p)'
     url: [ 'https://www.nexusmods.com/fallout3/mods/7531/' ]
